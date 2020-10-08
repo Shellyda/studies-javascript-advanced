@@ -11,8 +11,8 @@
  </ul>
  	<h2>Projetos:</h2> 
  	<ul>
- 		<li><a href="">Animação com JS puro</a></li>
- 		<li><a href="">Integrar o Google Maps</a></li>
- 		<li><a href="">Mini Loja Virtual</a></li>
- 		<li><a href="">Spotify Clone</a></li>
+ 		<li><a href="https://github.com/Shellyda/Avancado-JavaScript/tree/main/Testes%20com%20o%20C%C3%B3digo%20JS/Anima%C3%A7%C3%A3o%20JS%20puro">Animação com JS puro</a></li>
+ 		<li><a href="https://github.com/Shellyda/Avancado-JavaScript/tree/main/Testes%20com%20o%20C%C3%B3digo%20JS/Mapa%20-%20Google%20Maps">Integrar o Google Maps</a></li>
+ 		<li><a href="https://github.com/Shellyda/Avancado-JavaScript/tree/main/Testes%20com%20o%20C%C3%B3digo%20JS/Mini%20Loja%20virtual">Mini Loja Virtual</a></li>
+ 		<li><a href="https://github.com/Shellyda/Avancado-JavaScript/tree/main/Testes%20com%20o%20C%C3%B3digo%20JS/Spotify">Spotify Clone</a></li>
  	</ul>
