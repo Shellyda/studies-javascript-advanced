@@ -1,4 +1,4 @@
-# Avancado-JavaScript
+# JavaScript Avançado
  O estudo mais aprofundado sobre JavaScript e suas funcionalidades!
 
  <ul>
@@ -15,5 +15,5 @@
  		<li><a href="https://github.com/Shellyda/Avancado-JavaScript/tree/main/Testes%20com%20o%20C%C3%B3digo%20JS/Mapa%20-%20Google%20Maps">Integrar o Google Maps</a></li>
  		<li><a href="https://github.com/Shellyda/Avancado-JavaScript/tree/main/Testes%20com%20o%20C%C3%B3digo%20JS/Mini%20Loja%20virtual">Mini Loja Virtual</a></li>
  		<li><a href="https://github.com/Shellyda/Avancado-JavaScript/tree/main/Testes%20com%20o%20C%C3%B3digo%20JS/Spotify">Spotify Clone</a></li>
- 		<li><a href="https://github.com/Shellyda/Avancado-JavaScript/blob/main/1-%20JavaScript%20Avan%C3%A7ado/7-%20Mistura%20de%20conhecimentos%20-%20resgatando%20o%20nome%20do%20usu%C3%A1rio.html">Resgate do Nome de usuário(Storage)</a></li>
+ 		<li><a href="https://github.com/Shellyda/Avancado-JavaScript/blob/main/1-%20JavaScript%20Avan%C3%A7ado/7-%20Mistura%20de%20conhecimentos%20-%20resgatando%20o%20nome%20do%20usu%C3%A1rio.html">Resgate do Nome de usuário (Storage)</a></li>
  	</ul>
